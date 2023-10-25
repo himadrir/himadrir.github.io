@@ -17,7 +17,7 @@ Python, C++, Pytorch, ROS, OpenCV
 - [Reinforcement Learning on Google Research Football](https://github.com/himadrir/grf-test-algorithms)
 
 ## Resume ##
-- ![resume](https://github.com/himadrir/himadrir.github.io/blob/10c5847056d09346f49f01b53f3e6a7aff51c6b7/assets/cvss.png)
+![resume](https://github.com/himadrir/himadrir.github.io/blob/10c5847056d09346f49f01b53f3e6a7aff51c6b7/assets/cvss.png)
 
 ## Contact ##
 - email: himadrir@buffalo.edu
