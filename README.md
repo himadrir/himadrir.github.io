@@ -15,6 +15,7 @@ Python, C++, Pytorch, ROS, OpenCV
 - [American Sign Language Interpretation using LSTM](https://github.com/himadrir/sign-language-LSTM)
 - [Automated blood delivery using UAVs](https://github.com/himadrir/uav-autonomous-navigation)
 - [Reinforcement Learning on Google Research Football](https://github.com/himadrir/grf-test-algorithms)
+- [Vision based obstacle avoiding robot using CNN and Jetson utils](https://github.com/himadrir/obstacle-avoidance-jetbot)
 
 ## Resume ##
 ![resume](https://github.com/himadrir/himadrir.github.io/blob/10c5847056d09346f49f01b53f3e6a7aff51c6b7/assets/cvss.png)
