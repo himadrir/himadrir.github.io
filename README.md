@@ -18,7 +18,7 @@ Python, C++, Pytorch, ROS, OpenCV
 - [Vision based obstacle avoiding robot using CNN and Jetson utils](https://github.com/himadrir/obstacle-avoidance-jetbot)
 
 ## Resume ##
-![resume](https://github.com/himadrir/himadrir.github.io/blob/10c5847056d09346f49f01b53f3e6a7aff51c6b7/assets/cvss.png)
+![resume](assets/cvss.png)
 
 ## Contact ##
 - email: himadrir@buffalo.edu
