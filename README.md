@@ -6,7 +6,7 @@ I am Robotics Graduate student from University at Buffalo. My key interests lie 
 - Bachelors of Engineering, Electronics and Telecommunication, FCRIT (Navi Mumbai), India
 
 ## Skillset ##
-Python, C++14/17, Pytorch, ROS, OpenCV, Keras
+Python, C++11/14, Pytorch, ROS, OpenCV, Keras
 
 ## Interests ##
 Robotics Algorithms, Path Planning, SLAM, NLP, Deep Learning frameworks for Visual Odometry front-end.
