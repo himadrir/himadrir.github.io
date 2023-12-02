@@ -14,6 +14,7 @@ Robotics Algorithms, Path Planning, SLAM, NLP, Deep Learning frameworks for Visu
 ## Projects ##
 
 - [Autonomous racing car](https://github.com/himadrir/self-driving-car)
+- [PoseNet++, CNN based pose regression](https://github.com/himadrir/posenet)
 - [Visual Odometry using LightGlue and SuperPoint](https://github.com/himadrir/vo_lightglue)
 - [American Sign Language Interpretation using LSTM](https://github.com/himadrir/sign-language-LSTM)
 - [Automated blood delivery using UAVs](https://github.com/himadrir/uav-autonomous-navigation)
