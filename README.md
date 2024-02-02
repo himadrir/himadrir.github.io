@@ -24,8 +24,9 @@ Robotics Algorithms, Path Planning, SLAM, NLP, Deep Learning frameworks for Visu
 - [Vision based obstacle avoiding robot using CNN and Jetson utils](https://github.com/himadrir/obstacle-avoidance-jetbot)
 
 ## Resume ##
-![resume](assets/cvss.png)< br/>
-<a href="assets/cv.pdf" target="_blank">PDF.</a><br />
+![resume](assets/cvss.png)<br />
+<a href="assets/cv.pdf" target="_blank">PDF.</a>
+<br />
 
 ## Contact ##
 - email: himadrir@buffalo.edu
