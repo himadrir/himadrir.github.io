@@ -25,10 +25,10 @@ Robotics Algorithms, Path Planning, SLAM, NLP, Deep Learning frameworks for Visu
 
 ## Resume ##
 ![resume](assets/cvss.png)<br />
-<a href="assets/cv.pdf" target="_blank">PDF.</a>
 <br />
+<a href="assets/cv.pdf" target="_blank">FIND THE CV IN PDF HERE</a><br />
 
 ## Contact ##
-- email: himadrir@buffalo.edu
-- twitter: himadrifpv
+- #### **Primary Email**: himadrir@buffalo.edu ####
+- #### **Alternate Email**: himadri.roy355@gmail.com ####
 
