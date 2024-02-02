@@ -2,8 +2,8 @@
 I am Robotics Graduate student from University at Buffalo. My key interests lie in Perception, Path Planning and Machine Learning in Autonomous Systems. I also enjoy learning and reading about new tech, application of AI/ML in sports such as football(soccer) and Formula 1. As a hobby I like playing Counter Strike, watching F1(big RedBull fan) and making interesting side projects.
 
 ## Education ##
-- Masters of Scence, Engineering Science(Robotics), University at Buffalo
-- Bachelors of Engineering, Electronics and Telecommunication, FCRIT (Navi Mumbai), India
+- **Masters of Science**, Engineering Science(Robotics), University at Buffalo
+- **Bachelors of Engineering**, Electronics and Telecommunication, FCRIT (Navi Mumbai), India
 
 ## Skillset ##
 Python, C++11/14, Pytorch, ROS, OpenCV, Keras
@@ -25,6 +25,7 @@ Robotics Algorithms, Path Planning, SLAM, NLP, Deep Learning frameworks for Visu
 
 ## Resume ##
 ![resume](assets/cvss.png)
+![view cv pdf](assets/cv.pdf)
 
 ## Contact ##
 - email: himadrir@buffalo.edu
